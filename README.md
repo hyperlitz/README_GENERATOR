@@ -43,7 +43,7 @@ For questions or feedback, you can reach me through:
 
 ## Walkthrough Video
 
-[Link to walkthrough video](https://app.screencastify.com/manage/videos/bqgGUFo194MK61uFtubF)
+[Link to walkthrough video](https://drive.google.com/file/d/1IC4VMtNYK4caeqkH74qVDVcXsTah_gAb/view)
 
 ## Screenshots
 
