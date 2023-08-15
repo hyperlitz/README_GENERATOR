@@ -38,7 +38,7 @@ Provide information about how to run tests.
 ## Questions
 
 For questions or feedback, you can reach me through:
-- Repository: (https://github.com/hyperlitz/Module9_assignment)
+- Repository: (https://github.com/hyperlitz/README_GENERATOR)
 - Email: litobanano@yahoo.com
 
 ## Walkthrough Video
@@ -47,5 +47,5 @@ For questions or feedback, you can reach me through:
 
 ## Screenshots
 
-![Screenshot 1](./assets/images/screenshot1.png)
-![Screenshot 2](./assets/images/screenshot2.png)
+![Screenshot 1](images/shot1.png)
+![Screenshot 2](images/shot2.png)
